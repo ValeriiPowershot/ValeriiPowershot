@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**ValeriiPowershot/ValeriiPowershot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Valerii Briukhovetskyi
 
-Here are some ideas to get you started:
+**Gameplay Programmer | Unity & C#**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Warsaw, Poland.
+
+Gameplay programmer with 2+ years of commercial experience
+developing interactive simulations, VR applications,
+and gameplay systems using Unity.
+
+## Technical Skills
+
+- **Language:** C#
+- **Engine:** Unity
+- **Architecture:** OOP, SOLID, FSM, Object Pooling
+- **Tools:** Git, Rider, Unity Profiler, DOTween
+- **Experience:** Gameplay Systems, VR, Vehicle Simulation
+
+## Selected Projects
+
+### Traffic Control Simulator
+A Unity-based traffic simulation project.
+
+[View Repository](https://github.com/ValeriiPowershot/Traffic-Control-Simulator)
+
+## Contact
+
+Open to opportunities in gameplay programming.
